@@ -1,6 +1,10 @@
-# 👋 Hello, I'm Fazila Bano!
+<p align="center">
+  # 👋 Hello, I'm Fazila Bano!
+</p>
 
-I am a Full Stack Developer with a passion for building web applications and solving complex problems. Below you can find more about my skills, tools, and how to contact me.
+<p align="center">
+  I am a Full Stack Developer with a passion for building web applications and solving complex problems. Below you can find more about my skills, tools, and how to contact me.
+</p>
 
 ## 🛠 Skills
 
