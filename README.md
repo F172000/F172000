@@ -17,7 +17,7 @@
 - **Version Control**: GitHub
 - **Deployment**: Vercel, AWS
 
-//![Leetcode Stats](https://leetcard.jacoblin.cool/fazila_123?theme=dark)
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/fazila_123?theme=dark)-->
 
 ## 📬 Contact
 
