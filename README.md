@@ -1,5 +1,5 @@
 
-  <h1 align="center"> 👋 Hello, I'm Fazila Bano!</h1>
+  <h1 align="center"> Hey There 👋, I'm Fazila Bano!</h1>
 
 <p align="center">
   I am a Full Stack Developer with a passion for building web applications and solving complex problems. Below you can find more about my skills, tools, and how to contact me.
