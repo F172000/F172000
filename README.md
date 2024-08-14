@@ -1,5 +1,5 @@
 <p align="center">
-  # 👋 Hello, I'm Fazila Bano!
+  <h1> 👋 Hello, I'm Fazila Bano!</h1>
 </p>
 
 <p align="center">
