@@ -18,9 +18,7 @@
 
 ## 📂 Portfolio
 
-| 🚀 Project Showcase | 🔗 Link |
-|--------------------|--------|
-| 🌐 My Portfolio Website | https://faziladev.vercel.app/ |
+ 🌐 My Portfolio Website | https://faziladev.vercel.app/ 
 
 ## 📬 Contact
 
